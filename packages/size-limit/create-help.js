@@ -81,7 +81,7 @@ module.exports = process => {
       '  ' + y(add + '@size-limit/preset-big-lib'),
       'For small (< 10 KB) libraries',
       '  ' + y(add + '@size-limit/preset-small-lib'),
-      'Check out docs for more comlicated cases',
+      'Check out docs for more complicated cases',
       '  ' + y('https://github.com/ai/size-limit/')
     )
     let devDependencies = pkg.packageJson.devDependencies
